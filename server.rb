@@ -3,8 +3,9 @@ require 'socket'
 
 server = TCPServer.open(2000)
 loop {
-  client = server.accept
-  client.puts(Time.now.ctime)
-  client.puts('Closing the connection')
-  client.close
+  Thread.start(server.accept) do |client|
+    client.puts(Time.now.ctime)
+    client.puts('Closing the connection')
+    client.close
+  end
 }
