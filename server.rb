@@ -22,14 +22,18 @@ class ServerRuby
     while true
          Thread.start(@server.accept) do |client|
            @logger.info('Incoming Connection Accepted')
-           headers = ['http/1.1 200 ok',
+           response = "200 OK"
+           headers = ["HTTP/1.1 200 OK",
                       "Content-Type: text/plain",
                       "Content-Language: en-US",
+                      "Content-Length: #{response.bytesize}",
                       "Date: #{Time.now.ctime}",
                       'Connection: close',
                       'Server: Ruby'
                      ]
            client.puts(headers)
+           client.puts("\r\n")
+           client.puts(response)
            client.close
            @logger.info('Connection Closed')
          end
