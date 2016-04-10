@@ -1,0 +1,12 @@
+[
+    {
+      "user_id": 1,
+      "name": "Chris Rivers"
+      "designation": "Developer"
+    },
+    {
+      "user_id": 3,
+      "name": "Peter Curley"
+      "designation": "Designer"
+    }
+  ]

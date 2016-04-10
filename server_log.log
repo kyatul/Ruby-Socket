@@ -1,4 +1,0 @@
-# Logfile created on 2016-04-08 00:48:40 +0530 by logger.rb/41954
-I, [2016-04-08 00:48:40 #98264]  INFO -- : Server setup made with host localhost and port 2000
-I, [2016-04-08 00:48:44 #98264]  INFO -- : Incoming Connection Accepted
-I, [2016-04-08 00:48:44 #98264]  INFO -- : Connection Closed

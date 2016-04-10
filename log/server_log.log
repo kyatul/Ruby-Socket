@@ -1,0 +1,207 @@
+# Logfile created on 2016-04-10 12:20:07 +0530 by logger.rb/41954
+I, [2016-04-10 12:20:07 #99579]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 12:20:11 #99579]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 12:20:11 #99579]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:18:56 #1159]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:19:06 #1159]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:19:06 #1159]  INFO -- : File Not Found
+I, [2016-04-10 15:19:06 #1159]  INFO -- : Connection Closed
+I, [2016-04-10 15:19:22 #1159]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:19:22 #1159]  INFO -- : File Not Found
+I, [2016-04-10 15:19:22 #1159]  INFO -- : Connection Closed
+I, [2016-04-10 15:19:27 #1159]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:19:27 #1159]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:20:45 #1188]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:20:46 #1188]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:20:46 #1188]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:20:49 #1188]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:20:49 #1188]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:21:28 #1198]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:21:32 #1198]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:21:32 #1198]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:22:02 #1207]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:22:05 #1207]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:22:05 #1207]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:22:50 #1218]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:22:53 #1218]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:22:53 #1218]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:23:19 #1227]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:23:22 #1227]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:23:22 #1227]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:24:31 #1236]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:24:34 #1236]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:24:34 #1236]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:24:34 #1236]  INFO -- : Connection Closed
+I, [2016-04-10 15:25:26 #1245]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:25:28 #1245]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:25:28 #1245]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:47:40 #1303]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:47:44 #1303]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:47:44 #1303]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:47:44 #1303]  INFO -- : Connection Closed
+I, [2016-04-10 15:47:56 #1312]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:47:58 #1312]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:47:58 #1312]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:47:58 #1312]  INFO -- : Connection Closed
+I, [2016-04-10 15:48:01 #1312]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:48:01 #1312]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:48:01 #1312]  INFO -- : Connection Closed
+I, [2016-04-10 15:50:47 #1339]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:50:50 #1339]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:50:50 #1339]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:50:50 #1339]  INFO -- : Connection Closed
+I, [2016-04-10 15:51:47 #1348]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:51:49 #1348]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:51:49 #1348]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:51:49 #1348]  INFO -- : Connection Closed
+I, [2016-04-10 15:51:52 #1348]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:51:52 #1348]  INFO -- : File Not Found
+I, [2016-04-10 15:51:52 #1348]  INFO -- : Connection Closed
+I, [2016-04-10 15:52:42 #1357]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:52:45 #1357]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:52:45 #1357]  INFO -- : File Not Found
+I, [2016-04-10 15:52:45 #1357]  INFO -- : Connection Closed
+I, [2016-04-10 15:52:49 #1357]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:52:49 #1357]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:52:49 #1357]  INFO -- : Connection Closed
+I, [2016-04-10 15:55:03 #1384]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:55:06 #1384]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:55:06 #1384]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:55:06 #1384]  INFO -- : Connection Closed
+I, [2016-04-10 15:55:08 #1384]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:55:08 #1384]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:55:08 #1384]  INFO -- : Connection Closed
+I, [2016-04-10 15:55:25 #1384]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:55:25 #1384]  INFO -- : File Not Found
+I, [2016-04-10 15:55:25 #1384]  INFO -- : Connection Closed
+I, [2016-04-10 15:58:53 #1421]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:58:57 #1421]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:58:57 #1421]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:58:57 #1421]  INFO -- : Connection Closed
+I, [2016-04-10 15:58:59 #1421]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:58:59 #1421]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:58:59 #1421]  INFO -- : Connection Closed
+I, [2016-04-10 15:59:18 #1430]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 15:59:20 #1430]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 15:59:20 #1430]  INFO -- : Returing requested successfully
+I, [2016-04-10 15:59:20 #1430]  INFO -- : Connection Closed
+I, [2016-04-10 16:04:01 #1443]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:04:06 #1443]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:04:06 #1443]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:04:06 #1443]  INFO -- : Connection Closed
+I, [2016-04-10 16:04:16 #1443]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:04:16 #1443]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:04:16 #1443]  INFO -- : Connection Closed
+I, [2016-04-10 16:04:23 #1443]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:04:23 #1443]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:04:23 #1443]  INFO -- : Connection Closed
+I, [2016-04-10 16:04:31 #1443]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:04:31 #1443]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:04:31 #1443]  INFO -- : Connection Closed
+I, [2016-04-10 16:04:58 #1443]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:04:58 #1443]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:04:58 #1443]  INFO -- : Connection Closed
+I, [2016-04-10 16:36:35 #1646]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:36:57 #1655]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:37:00 #1655]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:37:00 #1655]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:38:58 #1664]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:39:01 #1664]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:39:01 #1664]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:39:54 #1674]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:39:57 #1674]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:39:57 #1674]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:39:57 #1674]  INFO -- : Connection Closed
+I, [2016-04-10 16:41:33 #1692]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:41:38 #1692]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:41:38 #1692]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:41:38 #1692]  INFO -- : Connection Closed
+I, [2016-04-10 16:43:17 #1702]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:43:21 #1702]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:43:21 #1702]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:43:21 #1702]  INFO -- : Connection Closed
+I, [2016-04-10 16:44:02 #1711]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:44:05 #1711]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:44:05 #1711]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:44:28 #1720]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:44:29 #1720]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:44:29 #1720]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:44:32 #1720]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:44:32 #1720]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:45:34 #1734]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:45:34 #1734]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:45:34 #1734]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:45:34 #1734]  INFO -- : Connection Closed
+I, [2016-04-10 16:45:36 #1734]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:45:36 #1734]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:45:36 #1734]  INFO -- : Connection Closed
+I, [2016-04-10 16:46:16 #1743]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:46:19 #1743]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:46:19 #1743]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:46:38 #1752]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:46:39 #1752]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:46:39 #1752]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:46:42 #1752]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:46:42 #1752]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:47:15 #1761]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:47:18 #1761]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:47:18 #1761]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:48:25 #1770]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:48:26 #1770]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:48:26 #1770]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:48:28 #1770]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:48:28 #1770]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:49:52 #1788]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:50:06 #1797]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:50:08 #1797]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:50:08 #1797]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:50:08 #1797]  INFO -- : Connection Closed
+I, [2016-04-10 16:52:42 #1851]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:52:57 #1860]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:53:07 #1869]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:53:18 #1869]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:53:18 #1869]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:53:18 #1869]  INFO -- : Connection Closed
+I, [2016-04-10 16:53:29 #1878]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:53:32 #1878]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:53:32 #1878]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:53:32 #1878]  INFO -- : Connection Closed
+I, [2016-04-10 16:54:03 #1887]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:54:05 #1887]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:54:05 #1887]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:54:05 #1887]  INFO -- : Connection Closed
+I, [2016-04-10 16:54:21 #1896]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:54:24 #1896]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:54:24 #1896]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:54:24 #1896]  INFO -- : Connection Closed
+I, [2016-04-10 16:54:27 #1896]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:54:27 #1896]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:54:27 #1896]  INFO -- : Connection Closed
+I, [2016-04-10 16:54:43 #1907]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:54:49 #1907]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:54:49 #1907]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:54:49 #1907]  INFO -- : Connection Closed
+I, [2016-04-10 16:54:53 #1907]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:54:53 #1907]  INFO -- : Returing requested successfully
+I, [2016-04-10 16:54:53 #1907]  INFO -- : Connection Closed
+I, [2016-04-10 16:55:19 #1907]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:55:19 #1907]  INFO -- : File Not Found
+I, [2016-04-10 16:55:19 #1907]  INFO -- : Connection Closed
+I, [2016-04-10 16:57:18 #1918]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 16:57:21 #1918]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:57:21 #1918]  INFO -- : File Not Found
+I, [2016-04-10 16:57:21 #1918]  INFO -- : Connection Closed
+I, [2016-04-10 16:57:24 #1918]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 16:57:24 #1918]  INFO -- : File Not Found
+I, [2016-04-10 16:57:24 #1918]  INFO -- : Connection Closed
+I, [2016-04-10 17:01:15 #1927]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 17:01:17 #1927]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 17:01:17 #1927]  INFO -- : File Not Found
+I, [2016-04-10 17:01:17 #1927]  INFO -- : Connection Closed
+I, [2016-04-10 17:01:20 #1927]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 17:01:20 #1927]  INFO -- : Returing requested successfully
+I, [2016-04-10 17:01:20 #1927]  INFO -- : Connection Closed
+I, [2016-04-10 17:04:40 #1940]  INFO -- : Server setup made with host localhost and port 2000
+I, [2016-04-10 17:04:45 #1940]  INFO -- : Incoming Connection Accepted
+I, [2016-04-10 17:04:45 #1940]  INFO -- : Returing requested successfully
+I, [2016-04-10 17:04:45 #1940]  INFO -- : Connection Closed
